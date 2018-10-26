@@ -1,0 +1,122 @@
+﻿
+
+body {
+	padding: 15;
+	background-image: url(http://inglescriativo.com.br/wp-content/uploads/2015/07/fundo-verde-claro-1920x1200.jpg);
+	background-size: cover;
+	background-color: #43C6AC;
+	
+}
+#container{
+    width:1200px;
+    margin:0 auto;
+	    
+
+    
+
+}
+
+#titulo{
+	height: 255px;
+	width: 1198px;
+	background: url("http://turismoeservicos.com.br/images/logo.png")no-repeat left;
+	
+
+}
+
+#menu ul {
+	margin:0px;
+	padding: 6;
+	list-style-type: none;
+	font-size:23;
+	border: 1px solid black;
+	border-color:#006400;
+	
+}
+
+
+#menu li {
+	display: inline;
+	padding: 0 20px;
+	font-family: impact;
+}
+
+a:link {
+	text-decoration: none;
+	color:#228B22;
+}
+
+a:visited{
+	color:#006400;
+}
+
+#lateral{
+	width:300px;
+    margin:0 auto;
+	height:1050px;
+    float:right;
+	margin-top:1px;
+}
+
+#titulolateral{
+    font-family: "Bitter", serif;
+	text-align: center;
+	font-size:24px;
+    padding-top:48px;
+	color: #006400;
+    width:350px;
+	
+}
+
+#tituloPrincipal{
+	text-align: center;
+	font-family: cursive;
+	font-size:29px;
+    color: #006400;
+	font-family: "Bitter", serif;
+	font-weight: 600;
+}
+ 
+
+ 
+#campoPrincipal{
+	font-size:24px;
+    text-align: center;
+	width:896px;
+	height:1000px;
+	float: left;
+	padding-top:50px;
+	margin-top:1px;
+	text-align: left;
+	font-family: "Bree Serif", serif;
+}
+
+#rodape {
+	clear: both;
+	font-family:Aparajita;
+	font-size:19;
+	text-align:left;
+	background-color:#EEE8AA;
+	position: relative;
+	width:auto;
+}
+
+
+
+#videos{
+	width:300; 
+	height:201;
+	padding-left:30px;
+}
+
+#imagemLateral{
+padding-left:25px;
+padding-top:25px;
+
+}
+
+#programacao{
+
+}
+
+
